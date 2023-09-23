@@ -269,7 +269,7 @@ def method():
 
         for pswd in pp:
 
-              heads= random.choice(ugen) #Put Your user Agent Here
+              heads= ('[FBAN/Orca-Android;FBAV/992.0.0.75.798;FBBV/26607092;[FBAN/Orca-Android;FBAV/992.0.0.75.798;FBPN/com.facebook.adsmanager;FBLC/en_US;FBBV/26607092;FBCR/Etisalat;FBMF/Xiaomi;FBBD/Redmi;FBDV/M2010J19SI;FBSV/7.1.2;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=2.0,height=1024,width=2048;FB_FW/1;] FBBK/1;]')#Put Your user Agent Here
 
               pswd = pswd.replace(f'first',first.lower()).replace(f'First',first).replace(f'last',last.lower()).replace(f'Last',last).replace(f'Name',name).replace(f'name',name.lower())
 
