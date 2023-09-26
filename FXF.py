@@ -353,7 +353,7 @@ def method():
 
                  print('\033[1;32m[OK] \033[1;32m'+acc+' \033[1;32m|\033[1;32m '+pswd)
 
-                 print(" [Cookie] ",cookie)
+                 #print(" [Cookie] ",cookie)
 
                  open('/sdcard/FXF-Ok.txt','a').write(f'{acc}|{pswd}\n')
 
